@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/socialHive/static/css/main.1a476621.css",
+    "main.js": "/socialHive/static/js/main.52e75baa.js",
+    "static/media/preview-3.jpg": "/socialHive/static/media/preview-3.4d6a392a36e79ccf4818.jpg",
+    "static/media/300-1.jpg": "/socialHive/static/media/300-1.952f478874a1a60f3c57.jpg",
+    "static/media/spinner.gif": "/socialHive/static/media/spinner.af540080a85c0797e6cb.gif",
+    "index.html": "/socialHive/index.html",
+    "static/media/google-icon.svg": "/socialHive/static/media/google-icon.95e5452dec502669b35ae4455f6cc0ad.svg",
+    "static/media/apple-black-dark.svg": "/socialHive/static/media/apple-black-dark.96feb708ed124e179d31d6dc0dc3a9f5.svg",
+    "static/media/apple-black.svg": "/socialHive/static/media/apple-black.98499f33349da89919d8e27fa4f9f779.svg",
+    "main.1a476621.css.map": "/socialHive/static/css/main.1a476621.css.map",
+    "main.52e75baa.js.map": "/socialHive/static/js/main.52e75baa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a476621.css",
+    "static/js/main.52e75baa.js"
+  ]
+}
